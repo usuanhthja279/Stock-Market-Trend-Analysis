@@ -1,16 +1,10 @@
-Files present in the folder :
 
-<<<<<<< HEAD
 1. Stock_price_dada.csv - original dataset which can be downloaded from the link  - https://www.kaggle.com/dpamgautam/stock-price-data-for-forecasting-problems
 2. Stock_price_dada_inverse.csv - Reversed dataset of the original data as the original data was in reverse order so we reversed the order and stored it in a different csv file
 4. Stock Market Trend Analysiss.ipynb - Jupyter file for training models and calculaing performances.
 5. Stock Market Trend Analysiss (1).py - Python file for reference of "Stock Market Trend Analysiss.ipynb" jupyter notebook file.
 =======
-1.stock_price_dada.csv - original dataset which can be downloaded from the link  - https://www.kaggle.com/dpamgautam/stock-price-data-for-forecasting-problems
-2. stock_price_dada_inverse.csv - Reversed dataset of the original data as the original data was in reverse order so we reversed the order and stored it in a different csv file
-4.Stock Market Trend Analysiss.ipynb - Jupyter file for training models and calculaing performances.
-5.Stock Market Trend Analysiss (1).py - Python file for reference of "Stock Market Trend Analysiss.ipynb" jupyter notebook file.
->>>>>>> f872da3 (commit for all the files for the project Stock Market Trend Analysis)
+
 5. Tata Global Beverages Ltd Next 60 Days__.csv - Dataset for next 60 days of the orginal stock used.
 
 Steps to Run the Project :-
